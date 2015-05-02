@@ -1,0 +1,11 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body{
+  background: url("smiley.jpg") top center no-repeat;
+  background-size: 100%;
+}
+
+.first-container{
+	margin-top: 10%;
+}
